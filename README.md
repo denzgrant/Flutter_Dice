@@ -4,4 +4,4 @@ A new Flutter project that handles minor state change and displays the amount of
 
 This project is a part of the Flutter Bootcamp at https://www.udemy.com/share/101WB6CEYTdlpXRn4=/ . 
 
-<img src="/images/dice1.png" alt="Flutter Dice">  
+<img src="/images/demo.gif" alt="Flutter Dice">  
